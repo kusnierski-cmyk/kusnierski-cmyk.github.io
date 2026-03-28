@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kusnierski_cmyk.twa",
+        "sha256_cert_fingerprints": ["47:5D:47:EF:F8:18:81:53:6D:45:DF:E2:FB:33:BE:AB:ED:E6:C6:23:B2:1A:45:8D:C4:45:87:FA:13:87:97:0C"]
+      }
+    }]
